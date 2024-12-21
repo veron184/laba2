@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+You can change "new text" to "new text" using the program.
+This is another line.
